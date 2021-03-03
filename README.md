@@ -1,6 +1,3 @@
-# test
+Hello World
 
-Just a test
-
-testing a new branch
-
+Terminal showing Text with typewriting effect
